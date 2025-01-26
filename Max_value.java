@@ -3,7 +3,7 @@ package com.sunbeam;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Program {
+public class Max_value {
 
 	public static void main(String[] args) {
 		int a = 10 , b = 20; 
