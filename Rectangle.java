@@ -1,6 +1,6 @@
 package com.sunbeam;
 
-public class Program {
+public class Rectangle {
 
 	public static void main(String[] args) {
 		//variable declaration 
