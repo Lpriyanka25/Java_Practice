@@ -27,7 +27,7 @@ class Employee
 		System.out.println("Salary : "+salary);
 	}
 }
-public class Program {
+public class EmployeeOperation {
 	
 	public static void main1(String[] args) {
 		Employee emp = new Employee(); 
